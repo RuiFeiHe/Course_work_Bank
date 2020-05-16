@@ -1,4 +1,4 @@
 # Course_work_Bank
 
 ## temporal
-export CITYSCAPES_DATASET=/home/rfhe/Workspace/from-c/PspNet/semseg/dataset/cityscapes
+export CITYSCAPES_DATASET=/root/Workspace_he/PspNet/semseg/dataset/cityscapes
